@@ -11,7 +11,7 @@ public class CategoryTest extends BaseTest {
 
     private final String categoryId = "6327";
     private final String categoryName = "Carbon credits";
-    private final String promotionName = "Feature";
+    private final String promotionName = "Gallery";
     private final String galleryDescription = "Good position in category";
 
     @Test(description = "This test validates that category id returned is 6327")

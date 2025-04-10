@@ -8,11 +8,6 @@
     <name>Archetype - tmsandbox</name>
     <url>http://maven.apache.org</url>
 
-    <properties>
-     <maven.compiler.source>21</maven.compiler.source>
-     <maven.compiler.target>21</maven.compiler.target>
-    </properties>
-
     <dependencies>
 
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
